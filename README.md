@@ -5,3 +5,5 @@
 Somente os arquivos do tutorial: [Ver Passo a Passo](https://marcelosena.com/criar-crud-completo-php-com-framework-laravel-7/ "Ver Passo a Passo")
 
 Este repositório contem todos os exemplos abordados no tutorial, você poderá ver o passo a passo da criação de um CRUD Laravel (Create Read Update Delete). [Tutorial](https://marcelosena.com/criar-crud-completo-php-com-framework-laravel-7/ "Tutorial")
+
+Vídeo: [Assistir Pelo Youtube](https://youtu.be/cHBfesXDZAk "Assistir Pelo Youtube")
